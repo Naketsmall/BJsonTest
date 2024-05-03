@@ -1,0 +1,11 @@
+{
+    "waves": {
+        "acoustic": "1",
+        "electo-magnetic": "1"
+    },
+    "particles": {
+        "electron": "1",
+        "neproton": "0",
+        "proton": "2"
+    }
+}
